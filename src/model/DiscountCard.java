@@ -1,3 +1,5 @@
+package model;
+
 public abstract class DiscountCard {
     private String owner;
     private int turnover;

@@ -1,3 +1,5 @@
+package model;
+
 public class GoldCard extends DiscountCard {
 
     public GoldCard(String owner, int turnover) {

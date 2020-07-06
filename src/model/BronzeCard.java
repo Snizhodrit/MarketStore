@@ -1,3 +1,5 @@
+package model;
+
 public class BronzeCard extends DiscountCard {
 
     public BronzeCard(String owner, int turnover) {

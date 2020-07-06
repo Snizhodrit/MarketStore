@@ -1,3 +1,8 @@
+import model.BronzeCard;
+import model.DiscountCard;
+import model.GoldCard;
+import model.SilverCard;
+
 public class Main {
 
     public static void main(String[] args) {

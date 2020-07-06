@@ -1,3 +1,5 @@
+package model;
+
 public class SilverCard extends DiscountCard {
 
     public SilverCard(String owner, int turnover) {
